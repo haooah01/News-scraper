@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Ứng dụng Thu thập Tin tức & Hình ảnh
 
 Ứng dụng GUI với giao thức bất đồng bộ và đa luồng để thu thập hình ảnh và bài báo từ mạng.
@@ -48,5 +47,3 @@ python news_scraper_gui.py
 
 Bạn có thể thay đổi URL API trong ô nhập liệu hoặc sửa code để kết nối với API khác.
 =======
-# News-scraper-
->>>>>>> 84f4261936e185a5e1eed13475a975ce37c47b0a
